@@ -1,0 +1,2 @@
+[console_scripts]
+kello = kello:main

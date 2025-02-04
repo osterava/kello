@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+kello.egg-info/PKG-INFO
+kello.egg-info/SOURCES.txt
+kello.egg-info/dependency_links.txt
+kello.egg-info/entry_points.txt
+kello.egg-info/requires.txt
+kello.egg-info/top_level.txt
